@@ -76,7 +76,9 @@ input, button {
 	font-family: "Poppins";
 }
 
-.delete { color: var--(purple);}
+.delete { 
+	color: var(--purple);
+}
 
 #taskInput {
 	flex: 1 1 0%;
