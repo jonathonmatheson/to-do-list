@@ -20,7 +20,7 @@ body {
 	display:  flex;	
 	flex-direction: column;
 	min-height:  100vh;
-	background: #131e2b;
+	background: #090f1c;
 	color: white; 
 
 /* 	Animated moving gradient background */
@@ -78,7 +78,7 @@ input, button {
 }
 
 .delete { 
-	color: var(--purple);
+	color: var(--pink);
 }
 
 #taskInput {
