@@ -58,7 +58,7 @@ header h1 {
 	font-weight:  300;
 	margin-bottom:  1rem;
 	color: var(--grey);
-	font-family: "Poppins";
+	font-family: "Poppins", sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
 
@@ -74,7 +74,7 @@ input, button {
 	outline:  none;
 	border: none;
 	background: none;
-	font-family: "Poppins";
+	font-family: "Poppins", sans-serif;
 }
 
 .delete { 
@@ -138,7 +138,7 @@ main {
 	font-weight:300;
 	color: var(--grey);
 	margin-bottom: 1rem;
-	font-family: "Poppins";
+	font-family: "Poppins", sans-serif;
 
 	font-weight: bold;
 	text-transform: uppercase;
