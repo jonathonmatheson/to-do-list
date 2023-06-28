@@ -76,6 +76,8 @@ input, button {
 	font-family: "Poppins";
 }
 
+.delete { color: var--(purple);
+
 #taskInput {
 	flex: 1 1 0%;
 	background-color: var(--darker);
@@ -118,7 +120,7 @@ input, button {
 main {
 		flex: 1 1 0%;
 	padding:  2rem 1rem;
-	max-width: 800;
+	max-width: 800px;
 	width:  100%;
 	margin:  0 auto;
 	
