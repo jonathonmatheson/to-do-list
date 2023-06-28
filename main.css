@@ -20,14 +20,15 @@ body {
 	display:  flex;	
 	flex-direction: column;
 	min-height:  100vh;
-/* 	background:  var(--dark*/
+	background:  var(--darkest);
 	color: white; 
 
-	 background: rgb(0,0,0);
+/* 	Animated moving gradient background */
+/* 	 background: rgb(0,0,0);
 	background: linear-gradient(331deg, rgba(0,0,0,1) 0%, rgba(0,1,15,1) 25%, rgba(12,23,36,1) 49%, rgba(33,43,58,1) 75%, rgba(55,65,81,1) 100%); 
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
-	height: 100vh;
+	height: 100vh; */
 }
 
 @keyframes gradient {
