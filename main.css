@@ -36,6 +36,9 @@ header h1 {
 	font-weight:  300;
 	margin-bottom:  1rem;
 	color: var(--grey);
+	font-family: "Poppins";
+	font-weight: bold;
+	text-transform: uppercase;
 
 }
 
@@ -49,6 +52,7 @@ input, button {
 	outline:  none;
 	border: none;
 	background: none;
+	font-family: "Poppins";
 }
 
 #taskInput {
@@ -108,6 +112,10 @@ main {
 	font-weight:300;
 	color: var(--grey);
 	margin-bottom: 1rem;
+	font-family: "Poppins";
+
+	font-weight: bold;
+	text-transform: uppercase;
 }
 
 #tasks .task {
